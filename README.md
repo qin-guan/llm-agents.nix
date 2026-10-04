@@ -120,6 +120,16 @@ Nix packages for AI coding agents and development tools. Automatically updated d
 
 </details>
 <details>
+<summary><strong>codealta</strong> - Terminal workspace for agentic coding</summary>
+
+- **Source**: source
+- **License**: BSD-2-Clause
+- **Homepage**: https://codealta.github.io/
+- **Usage**: `nix run github:numtide/llm-agents.nix#codealta -- --help`
+- **Nix**: [packages/codealta/package.nix](packages/codealta/package.nix)
+
+</details>
+<details>
 <summary><strong>codex</strong> - OpenAI Codex CLI - a coding agent that runs locally on your computer</summary>
 
 - **Source**: source
