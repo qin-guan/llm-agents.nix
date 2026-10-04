@@ -309,6 +309,11 @@ inputs."nixpkgs".lib.extend (
         githubId = 49000471;
         name = "Tim";
       };
+      qin-guan = {
+        github = "qin-guan";
+        githubId = 10321883;
+        name = "Qin Guan";
+      };
     };
   }
 )
